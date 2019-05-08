@@ -1,0 +1,144 @@
+.navbar-right {
+    margin-right: 10em;
+}
+.navbar-brand {
+    margin-left: 10em;
+}
+.modal-body{
+ margin: 5px 0;
+}
+.btn {
+    padding: 0;
+}
+.modal-icons {
+    text-align: left;
+    left: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.modal-footer{
+    padding: 8px !important;
+}
+.camera {
+    border: 1px black;
+    border-radius: 2px;
+}
+.map{
+    border: 1px black;
+    border-radius: 2px;
+}
+.form-group{
+    margin-bottom: none !important;
+}
+.changer {
+    width: 100%;
+    background: white;
+    text-align: center;
+}
+.changer-buttons {
+    display: inline-block;
+}
+.card {
+    max-width: 600px;
+    margin-bottom: 30px;
+}
+.card-header{
+    border: none !important;
+    background-color: white !important
+}
+.card-body{
+    padding: 0 !important;
+}
+p .card-text{
+    margin-bottom: 0 !important;
+}
+
+.tab-content{
+    background-color: #cfcfd1;
+}
+.container-fluid{
+    width: 100% !important;
+    padding: 0 !important;
+}
+.col {
+    width: 33.33%;
+    overflow: hidden;
+    height: 230px;
+    background-color: white;
+    margin: 1px;
+}
+.col1{
+    background-image: url("https://www.hotelcolonnade.com/images/hero-tour/coral-gables.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.col2{
+    background-image: url("https://ssl.c.photoshelter.com/img-get2/I0000BCG95x59c0M/fit=1000x750/BILTMORE-10.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-height: 230px;
+}
+.col3{
+    background-image: url("https://media.timeout.com/images/105250996/630/472/image.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-height: 230px;
+}
+.col4{
+    background-image: url("http://www.merrick-manor.com/blog/wp-content/uploads/2017/05/2006-MM-Eblast-Newsletter-05152017-Elements-Header-800x445.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-height: 230px;
+}
+.col5{
+    background-image: url("https://media.glassdoor.com/l/86/b7/8e/8d/student-activity-center.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-height: 230px;
+}
+.col6{
+    background-image: url("https://www.sacnas.org/wp-content/uploads/2017/06/University-Miami-min.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-height: 230px;
+}
+.col7{
+    background-image: url("https://images1.miaminewtimes.com/imager/u/745xauto/8749207/biltmore-best.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-height: 230px;
+}
+.col8{
+    background-image: url("https://www.coralgables.com/?action=media.media.read&id=53358&size=large");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-height: 230px;
+}
+.col9{
+    background-image: url("https://media.timeout.com/images/105263099/image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-height: 230px;
+}
+.img1{
+    max-height: 230px;
+    visibility: hidden;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+.modal-backdrop.show {
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
